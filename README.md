@@ -43,4 +43,4 @@ Also included are two accelerated variants of each of the above algorithms:
 
 ## Miscellaneous
 
-The files `exp_lcp`, `exp_safp_random`, and `exp_safp_real` are scripts for generating the results in the above paper. Datasets considered can be downloaded from [LibSVM Datasets](http://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/).
+The files `exp_lcp`, `exp_safp_random`, and `exp_safp_real` are scripts for generating the results in the above paper. The codes for generating the random test problems are embedded in the scripts. Real datasets considered for SAFP can be downloaded from [LIBSVM Datasets](http://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/).
